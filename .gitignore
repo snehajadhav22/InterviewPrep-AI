@@ -1,0 +1,28 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+backend/app/core/__pycache__/
+backend/app/models/__pycache__/
+backend/app/schemas/__pycache__/
+backend/app/routes/__pycache__/
+backend/app/services/__pycache__/
+interview_prep.db
+interview_prep.db-journal
+*.db
+*.db-journal
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/src/.env
+
+# Local Environment
+.env
+
+# Editor / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
