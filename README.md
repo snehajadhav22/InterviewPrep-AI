@@ -156,3 +156,16 @@ InterviewPrep-AI/
 - **Video Emotion Analytics**: Utilizing camera nodes to analyze candidate posture, confidence, and facial responses.
 - **Multi-lingual AI voices**: Conversational support for practicing interviews in multiple languages.
 - **Enterprise Team Dashboards**: Allowing recruitment teams and college departments to review cohort performance analytics.
+
+---
+
+## 📷 Screenshots
+
+### Platform Dashboard View
+![InterviewPrep AI Dashboard](screenshot.png)
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by Sneha Jadhav</b>
+</p>
