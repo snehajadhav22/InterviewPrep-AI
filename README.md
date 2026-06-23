@@ -2,6 +2,8 @@
 
 InterviewPrep AI is a production-quality, AI-powered interview preparation platform designed to help students, freshers, job seekers, and developers ace their interviews. The application integrates the **Gemini API** to evaluate user responses in real-time, score them, and analyze PDF resumes to calculate ATS match percentages.
 
+🔗 **Quick Access Link (Local Development)**: **[http://localhost:5173](http://localhost:5173)**
+
 ---
 
 ## 🌟 Key Features
